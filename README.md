@@ -1,7 +1,7 @@
 # django-otp-api
 $ Hi
 
-##API
+## API
 GET
 This is to register the mobile number into the database and generate OTP.
 
