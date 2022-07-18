@@ -2,7 +2,7 @@
 $ Hi
 
 ## API
-GET
+<b>GET</b>
 This is to register the mobile number into the database and generate OTP.
 
 http://127.0.0.1:8000/api/v1/users/otp?receiver=999999999
